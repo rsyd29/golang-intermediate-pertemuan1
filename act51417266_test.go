@@ -4,8 +4,8 @@ import "testing"
 
 var (
 	segitiga           Segitiga = Segitiga{4, 5, 6}
-	luasSeharusnya     float64  = 10
-	kelilingSeharusnya float64  = 15
+	luasSeharusnya     float64  = 15
+	kelilingSeharusnya float64  = 54
 )
 
 func TestHitungLuas(t *testing.T) {
